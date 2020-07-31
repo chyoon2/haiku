@@ -1,6 +1,6 @@
 # Haiku
 
-  ### By Chris Yoon
+  ### By Chris Yoon and Taylor Somers
 
 ## Description
   This is an application that counts the syllables in a 3 line haiku. The application will also determine if the poem follows the rules of a haiku.
