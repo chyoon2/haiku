@@ -1,25 +1,9 @@
-Get Started:
+# Haiku
 
-FIRST: [REMEMBER TO (1) CHANGE package.json PROJECT NAME AND DESCRIPTION TO CURRENT PROJECT NAME AND DESCRIPTION, (2) CHANGE TITLE OF HtmlWebpackPlugin IN webpack.config.js TO CURRENT PROJECT NAME, AND (3) CHANGE TITLE OF project-name.js IN SRC DIRECTORY TO NAME OF CURRENT PROJECT.]
-
-SECOND:
-  $ npm install
-  $ npm install dotenv-webpack --save-dev
-  $ git init
-  $ git add .gitignore
-  $ git commit -m "Activate .gitignore"
-  $ npm run build
-  $ git add .
-  $ git commit -m "Initial global commit"
-  $ npm run start
-
-# [Program Title]
-
-  ### By [Author(s)]
+  ### By Chris Yoon
 
 ## Description
-
-  [Description of program functionality & intent presented as an elevator pitch.]
+  This is an application that counts the syllables in a 3 line haiku. The application will also determine if the poem follows the rules of a haiku.
 
 ## Languages & Technologies Used:
 
@@ -29,11 +13,8 @@ SECOND:
   * HTML
   * JavaScript
   * jQuery
-  * Node
-  * WebPack
-
+ 
   ### Operating Systems & Programs
-  * Brave
   * Git Bash
   * Google Chrome
   * Microsoft Windows 10
